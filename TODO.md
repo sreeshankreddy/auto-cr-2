@@ -1,0 +1,14 @@
+- [x] Step 1: System Design
+- [x] Step 2: Project Structure
+- [x] Step 3: Streamlit UI
+- [x] Step 4: Code Parser
+- [x] Step 5: Static Analysis
+- [x] Step 6: AI Review Engine
+- [x] Step 7: Security Checker
+- [x] Step 8: GitHub Integration
+- [x] Step 9: Report Generation
+- [x] Step 10: Database
+- [x] Step 11: Testing
+- [x] Step 12: Requirements File
+- [x] Step 13: Deployment
+- [x] Step 14: README
